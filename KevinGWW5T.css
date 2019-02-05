@@ -1,0 +1,35 @@
+html{
+    background-color: yellow;
+}
+
+td{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    font-size: 65px;
+    color: aqua;
+}
+
+button{
+    margin: auto;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+table{
+    margin: auto;
+
+}
+.vertical{
+    border-right: 3px solid red;
+    border-left: 3px solid red;
+}
+.horizontal {
+    border-top: 3px solid red;
+    border-bottom: 3px solid red;
+}
+
+td:hover{
+    border: 3px solid grey;
+}
